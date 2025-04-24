@@ -1,4 +1,10 @@
 #The below method calculates and gives the result in the form of "dictonary" including percentages.
+
+
+
+
+
+
 dict = {}
 with open("C:/Users/user/Desktop/python/ecoli.fasta", 'r') as f:    
     for line in f:
